@@ -8,4 +8,7 @@ In this application, a user can:
 - Transfer money
 - Check statement of account and logout.
 
-## Demo
+
+## Demo Video (Click on the image)
+
+[![Watch the video](ATMThumbnail.png)](https://www.youtube.com/watch?v=3CvT9qUVzps)
